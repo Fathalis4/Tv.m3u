@@ -37,10 +37,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="PLEX.TV.FailArmy" tvg-name="FailArmy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/failarmy_linear_.png" group-title="Entertainment",FailArmy
 https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FailArmy/1274d359-2dc9-42f1-93de-b7736769d7cc/3.m3u8
 
-#EXTINF:-1 tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Entertainment",Mix Anime 
+#EXTINF:-1 tvg-name="Mix Anime" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Entertainment",Mix Anime 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 
-#EXTINF:-1 tvg-name="MythBusters" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Entertainment", Myth-Busters
+#EXTINF:-1 tvg-name="MythB" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Entertainment", MythB
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bd833b41843b56328bac189/master.m3u8
 
 #EXTINF:-1 tvg-ID="PLEX.TV.People.are.Awesome" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_peopleareawesome_1.png" group-title="Entertainment",People are Awesome
