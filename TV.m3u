@@ -1,6 +1,9 @@
   
 #EXTM3U
 
+#EXTINF:-1 tvg-id="157" tvg-name="157" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
 #EXTINF:-1 tvg-id="19" tvg-name="19" tvg-logo="https://i.imgur.com/V6YHC3a.png" group-title="Entertainment",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
@@ -28,20 +31,12 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="157" tvg-name="157" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-
 #EXTINF:-1 tvg-id="44" tvg-name="44" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Lokal",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="PLEX.TV.FailArmy" tvg-name="FailArmy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/failarmy_linear_.png" group-title="Entertainment",FailArmy
 https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FailArmy/1274d359-2dc9-42f1-93de-b7736769d7cc/3.m3u8
 
-#EXTINF:-1 tvg-name="Mix Anime" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Entertainment",Mix Anime 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 
-#EXTINF:-1 tvg-name="MythB" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" group-title="Entertainment", MythB
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bd833b41843b56328bac189/master.m3u8
-
-#EXTINF:-1 tvg-ID="PLEX.TV.People.are.Awesome" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_peopleareawesome_1.png" group-title="Entertainment",People are Awesome
+#EXTINF:-1 tvg-ID="PLEX.TV.People.are.Awesome" tvg-name="People are Awesome" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-cQqll-rrIIEIR2Ko8pSyS4yPCC3s1FpaA&usqp=CAU" group-title="Entertainment",People are Awesome
 https://a357e37df8ec46719fdeffa29a3e8e40.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_PeopleAreAwesome/8fe64d6c-210c-42ac-8b42-8006b8721cf4/3.m3u8
